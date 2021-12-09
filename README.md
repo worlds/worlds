@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @worlds
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning LUA
 - 💞️ I’m looking to collaborate on Android apps
 
 <!---
